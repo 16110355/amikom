@@ -1,2 +1,8 @@
-# amikom
-amikom project 1 github
+# Nama Startup : SimpananPelajar
+
+RIDHO ARYO BIMO (16.11.0344) <br>
+WILLY WIJAYA (16.11.0355) <br>
+RIA HIKMA P (16.11.0396) <br>
+TIARA WIDYAKUNTHANINGRUM (16.11.0385) <br>
+MURNIANDHANY A (16.11.0385) <br>
+
